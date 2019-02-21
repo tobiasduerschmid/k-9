@@ -1,0 +1,3 @@
+[submodule "qaassumptions"]
+	path = qaassumptions
+	url = git@github.com:tobiasduerschmid/qaassumptions.git

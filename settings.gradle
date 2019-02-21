@@ -1,4 +1,4 @@
-include ':app:k9mail'
+include ':app:k9mail', ':qaassumptions'
 include ':app:ui'
 include ':app:core'
 include ':app:storage'
